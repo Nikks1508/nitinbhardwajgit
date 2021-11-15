@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: November 15 - 19, 2021
+- Facilitator: @andrew-scoppa
 
 ## Class Resources
 
