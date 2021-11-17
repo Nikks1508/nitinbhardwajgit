@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers -  Andrew Scoppa
 
 - Class Date: November 15 - 19, 2021
 - Facilitator: @andrew-scoppa
